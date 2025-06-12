@@ -15,7 +15,7 @@ from tkinter import simpledialog, messagebox
 
 # Configuration
 KNOWN_FACES_DIR = "known_faces"  # Folder with your face images
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1376189281751793756/moDICuy9PbvcdNs3dOb31fgZvUo69c1c1F64UU67QALYlIXls78v74DCKGC2b4E00Ra0"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/----------------------------------------------------------"
 SCRIPT_PATH = os.path.abspath(__file__)  # Path to this script
 TOLERANCE = 0.6  # Face recognition tolerance (lower is stricter)
 LOCK_TIMEOUT = 10  # Seconds to wait before locking if no known face is detected
